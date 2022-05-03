@@ -4,4 +4,4 @@ tar -xvf lolMiner_v1.44_Lin64.tar.gz
 
 cd 1.44 
 
-./lolMiner --algo ETHASH --pool stratum+tcp://ethash.poolbinance.com:1800 --user {WALLET}.{WORKER} : 123456
+./lolMiner --algo ETHASH --pool stratum+tcp://ethash.poolbinance.com:1800 --user Jay911.Jay911 : 123456
